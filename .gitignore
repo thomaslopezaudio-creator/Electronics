@@ -1,0 +1,14 @@
+.DS_Store
+
+# Secrets — WiFi credentials, API keys. Never commit.
+**/secrets.h
+.env
+
+# Build output and virtualenvs
+.pio/
+.venv/
+__pycache__/
+*.egg-info/
+
+# Captured images
+bench-cam/captures/
