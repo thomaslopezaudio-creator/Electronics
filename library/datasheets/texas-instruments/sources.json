@@ -1,0 +1,20 @@
+[
+  {
+    "file": "pcm5102.pdf",
+    "source_url": "https://www.ti.com/lit/ds/symlink/pcm5102.pdf",
+    "publisher": "Texas Instruments",
+    "document": "SLAS764B",
+    "retrieved_date": "2026-10-10",
+    "pages": 37,
+    "sha256": "27f64576434378ba657bbc22ccfa1d5b5b36959cc092a04fb6445166c9573b67"
+  },
+  {
+    "file": "pcm5102a.pdf",
+    "source_url": "https://www.ti.com/lit/ds/symlink/pcm5102a.pdf",
+    "publisher": "Texas Instruments",
+    "document": "SLAS859C",
+    "retrieved_date": "2026-10-10",
+    "pages": 44,
+    "sha256": "a522083606b8e994875883215046fbdb92fd362996ca97719d259fbe9df07a85"
+  }
+]
